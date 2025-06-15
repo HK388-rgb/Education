@@ -2,7 +2,7 @@
 
 # Ideas:
 Centralized Patient Respiratory.
-This would be a portal to store details of pateints and this could be used as a pateints having a repiratory issues.
+This would be a portal to store details of pateints and this could be used as a pateints having a repiratory issues to provide medical facilities in a proper time.
 
 # Group Number: 18
 
