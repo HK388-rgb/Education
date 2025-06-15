@@ -13,7 +13,7 @@ This would be a portal to store details of pateints and this could be used as a 
 4. NANDHINI G . – @bits-pilani.ac.in
 
 
-# Roles 
+# Roles: 
 1. Harshit Kumar – Programmer, Tester, Technical Analyst
 2. Vanitha N. – Programmer, Tester, User Researcher 
 3. SWATHI KRISHNA K . – Programmer, Tester, User Researcher 
