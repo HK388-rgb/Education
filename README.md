@@ -2,7 +2,7 @@
 
 Ideas:
 Centralized Patient Respiratory.
-This would be a portal to store details of pateints and this could be used as a central respiratory for woking based on the issues to connect with the pateints.
+This would be a portal to store details of pateints and this could be used as a pateints having a repiratory issues.
 
 Group Number: 18
 
